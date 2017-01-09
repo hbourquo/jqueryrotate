@@ -1,0 +1,26 @@
+{
+  "name": "jqueryrotate",
+  "description": "OpenSource Cross-browser jQuery plugin to rotate image by any-angle with an animation support",
+  "license": [
+    "MIT"
+  ],
+  "homepage": "http://beneposto.pl/jqueryrotate",
+  "authors": [
+    "Pawel Witkowski <TBD@tbd.com>"
+  ],
+  "main": [
+    "jQueryRotate.js",
+    "jQueryRotate3.js"    
+  ],
+  "keywords": [
+        "jqueryrotate",        
+        "rotate",
+        "animation"
+  ],
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "ignore": [
+    "**/.*"
+  ]
+}
